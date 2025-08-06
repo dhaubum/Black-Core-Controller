@@ -5,7 +5,7 @@
   **Black_Core Controller - Ваш компьютер под полным удалённым контролем через обычный Telegram-бот!**
 </div>
 
-[Black_Core Controller_Beta 1.0.0](https://github.com/dhaubum/Black-Core-Controller/releases/tag/Black_Core_Controller_Beta1.0.0)
+**Скачать -** [Black_Core Controller_Beta 1.0.0](https://github.com/dhaubum/Black-Core-Controller/releases/tag/Black_Core_Controller_Beta1.0.0)
 
 <div align="center">
 
