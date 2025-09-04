@@ -69,10 +69,11 @@ A: Telegram: Contact [@Get My ID](https://t.me/getmyid_bot)
 A: Telegram: Contact [@BLACKCORE_CONTROLLER](https://t.me/BLACKCORE_CONTROLLER)
 
 
+*We are not responsible for the consequences of your use of our application. We do not guarantee security. Use it at your own risk. We are demonstrating the functionality of our application.*
+
+
 **You can contribute to the development:**
 ```
 Tonkeeper: UQCMX6uvw4nbd0KFLH1glUwGQKsMVmXzC8l_NH0xzxdC7znK
 Bitcoin: bc1qgkwtq5nc43yxgfd7d6w3q2zwh2jdkxz2xw83r2
 ```
-
-*We are not responsible for the consequences of your use of our application. We do not guarantee security. Use it at your own risk. We are demonstrating the functionality of our application.*
