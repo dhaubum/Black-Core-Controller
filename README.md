@@ -7,9 +7,9 @@
   **Black_Core Controller - Ваш компьютер под полным удалённым контролем через обычный Telegram-бот!**
 </div>
 
-**Installation and launch instructions/Инструкция по установке и запуску -** [link](https://github.com/dhaubum/Black-Core-Controller/blob/ad6226336f39dbd09d300c2bcae11a8f37820e85/Installation%20and%20launch%20instructions-%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B5%20%D0%B8%20%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D1%83.pdf)
-
 **Download/Скачать -** [Black_Core Controller_Release 1.0.0](https://github.com/dhaubum/Black-Core-Controller/releases/tag/Black_Core_Controller_Release1.0.0) - [Black_Core Controller_Beta 1.0.0](https://github.com/dhaubum/Black-Core-Controller/releases/tag/Black_Core_Controller_Beta1.0.0)
+
+**Installation and launch instructions/Инструкция по установке и запуску -** [link](https://github.com/dhaubum/Black-Core-Controller/blob/ad6226336f39dbd09d300c2bcae11a8f37820e85/Installation%20and%20launch%20instructions-%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B5%20%D0%B8%20%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D1%83.pdf)
 
 <div align="center">
 
