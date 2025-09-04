@@ -68,6 +68,7 @@ A: Telegram: Contact [@Get My ID](https://t.me/getmyid_bot)
 
 A: Telegram: Contact [@BLACKCORE_CONTROLLER](https://t.me/BLACKCORE_CONTROLLER)
 
+-----------
 
 *We are not responsible for the consequences of your use of our application. We do not guarantee security. Use it at your own risk. We are demonstrating the functionality of our application.*
 
