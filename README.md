@@ -15,7 +15,7 @@
   **WHAT CAN A BOT DO?**
 </div>
 
-**Mouse Control**
+**MOUSE CONTROL**
 ```
 - Moving the cursor
 - Left mouse button/The right mouse button/Doubleclick
